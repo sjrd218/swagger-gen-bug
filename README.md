@@ -1,0 +1,1 @@
+Example project demonstrating a bug in the micronaut swagger schema generation when using groovy models

@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: groovy.openapi.gen.bug
+---
+testFramework: spock
+sourceLanguage: groovy
